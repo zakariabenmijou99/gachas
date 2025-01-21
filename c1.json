@@ -1,0 +1,29 @@
+[
+    {
+        "itemImageUrl": "https://i.ibb.co/GJSTJz4/7c5b7ff100b9.jpg",
+        "itemZipUrl": "https://getsamplefiles.com/download/zip/sample-1.zip",
+        "itemTitle": "Elara",
+        "itemDescription": "Elara, a kind-hearted healer, can heal with her magical songs.",
+        "itemRating": "4.0",
+        "itemNumDownload": "1.3K",
+        "itemNumViews": "11K"
+    },
+    {
+        "itemImageUrl": "https://i.ibb.co/H4bHjBL/ab1f5e8aa7ba.jpg",
+        "itemZipUrl": "https://getsamplefiles.com/download/zip/sample-2.zip",
+        "itemTitle": "Valor",
+        "itemDescription": "Valor is a warrior known for her unmatched courage in battles.",
+        "itemRating": "4.2",
+        "itemNumDownload": "1.7K",
+        "itemNumViews": "23K"
+    },
+    {
+        "itemImageUrl": "https://i.ibb.co/5LtzCb7/d42551fe20a2.jpg",
+        "itemZipUrl": "https://getsamplefiles.com/download/zip/sample-3.zip",
+        "itemTitle": "Thorne",
+        "itemDescription": "Thorne, the fierce defender, stands strong against any threat.",
+        "itemRating": "4.5",
+        "itemNumDownload": "2.1K",
+        "itemNumViews": "39K"
+    }
+]
